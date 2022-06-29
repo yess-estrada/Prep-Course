@@ -1,0 +1,30 @@
+## Instrucciones
+
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como 
+si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier 
+agujero en tu comprensión.
+
+ * Variables
+ * Strings
+ * Funciones (argumentos, `return`)
+ * Declaraciones `if`
+ * Valores booleanos (`true`, `false`)
+
+
+Variables = Es cuando le queremos asignar a una variable un valor. Por ejemplo var edad = 24
+
+Strings = Es un tipo de dato que puede ser una frase, una palabra, o incluso números, siempre y cuando vayan 
+encerrados entre comillas, ya sean simples ('') o dobles (""). Por ejemplo, "Hola, mundo!".
+
+Funciones = Es cuando vamos a usar cierto fragmento de código en repetidas ocasiones, entonces en vez de copiar y
+pegar n veces, lo que hacemos es invocar a la función. Por ejemplo, function suma(a,b)
+
+Declaraciones = Es cuando queremos poner cierta condición en un contexto determinado. Por ejemplo,
+    if (condicion) {
+    // escribe tu código
+    }   else () {
+        // escribe tu código
+    }
+
+Valores booleanos = Son aquellas "frases", por así decirlo en que puedes decir que tiene un valor de verdad, o de 
+falsedad. Por ejemplo, 5 < 1 (esto es falso ya que sabemos que 5 es mayor que 1)
